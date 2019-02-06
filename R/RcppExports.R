@@ -9,3 +9,6 @@ timesTwo <- function(x) {
     .Call('_InitPack_timesTwo', PACKAGE = 'InitPack', x)
 }
 
+
+
+
